@@ -1,0 +1,3 @@
+/home/damian/CLionProjects/PP/bitowy_palindrom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/damian/CLionProjects/PP/bitowy_palindrom/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/damian/CLionProjects/PP/bitowy_palindrom/cmake-build-debug/CMakeFiles/bitowy_palindrom.dir
